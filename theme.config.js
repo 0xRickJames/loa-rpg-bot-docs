@@ -35,7 +35,7 @@ export default {
         name="og:image"
         content="https://cdn.discordapp.com/attachments/939309405227339776/1157077674280353822/LoA_logo.png"
       />
-      <meta name="apple-mobile-web-app-title" content="OctoMob" />
+      <meta name="apple-mobile-web-app-title" content="Lands of Ascension" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -72,5 +72,5 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: false,
-  unstable_faviconGlyph: '🐙',
+  unstable_faviconGlyph: '🤖',
 }
